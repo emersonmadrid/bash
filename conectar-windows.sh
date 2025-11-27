@@ -31,8 +31,8 @@ if [ -z "$IP" ]; then
     [ -z "$IP" ] && exit 1
 fi
 
-read -rp "🔑 Usuario: " USER
-read -rsp "🔒 Contraseña: " PASS
+read -rp "🔑 User: " USER
+read -rsp "🔒 Password: " PASS
 echo
 
 echo "🚀 Conectando a $IP..."
