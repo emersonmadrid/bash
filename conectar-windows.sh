@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 HOST="DESKTOP-DOCJT49"
 NETWORK_PREFIX="192.168.1."
 
